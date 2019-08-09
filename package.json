@@ -1,0 +1,27 @@
+{
+  "name": "typescript-discord-api-typing",
+  "version": "0.1.0",
+  "description": "TypeScript interfaces and types to deal with Discord APIs",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^12.7.1",
+    "discord.js": "^11.5.1",
+    "typescript": "^3.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/discostats/typescript-discord-api-typing.git"
+  },
+  "author": "Antoine POUS",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/discostats/typescript-discord-api-typing/issues"
+  },
+  "homepage": "https://github.com/discostats/typescript-discord-api-typing#readme"
+}
